@@ -5,8 +5,8 @@ Bienvenido a mi perfil de GitHub. Soy una apasionada desarrolladora de software 
 
 - 💻 Desarrolladora de Software en constante crecimiento y aprendizaje.
 - 🌐 Apasionada por el desarrollo web y tecnologías front-end.
-- 📱 Interesada en el desarrollo de aplicaciones móviles con Android.
-- 📚 Egresada en Programación y analisis de Sistemas y amante de la tecnología.
+- 📱 Interesada en el desarrollo de aplicaciones móviles para Android.
+- 📚 Egresada en Programación y Analisis de Sistemas y amante de la tecnología.
 
 ## Contacto
 
