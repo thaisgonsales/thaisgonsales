@@ -17,4 +17,4 @@ Bienvenido a mi perfil de GitHub. Soy una apasionada desarrolladora de software 
 
 </div>
 
-¡Gracias por visitar mi perfil!
+
