@@ -1,6 +1,6 @@
 ## Hello World 😊, soy Thais Gonsales 👋
 
-Bienvenido a mi perfil de GitHub. Soy una apasionada desarrolladora de software con un enfoque en proyectos de Android y desarrollo web. 
+Bienvenido a mi perfil de GitHub. Soy una apasionada desarrolladora de software con un enfoque en proyectos desarrollo web. 
 
 
 - 💻 Desarrolladora de Software en constante crecimiento y aprendizaje.
