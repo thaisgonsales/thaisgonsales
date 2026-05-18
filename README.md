@@ -1,4 +1,4 @@
-## Hola!😊, soy Thais Gonsales 👋
+## Hola!😊, soy Thais 👋
 
 Bienvenido a mi perfil de GitHub. Soy una apasionada desarrolladora de software con un enfoque en proyectos desarrollo web. 
 
